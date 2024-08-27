@@ -78,17 +78,17 @@ Para executar os exercícios, siga estas etapas:
    cd <diretório do projeto>
    ```
 3.**Compile o Projeto:**
-   ```sh
-  javac -d bin src/com/Dani/HerancaPolimorfismo/Exercicios1Ate4
-  .java src/com/Dani/HerancaPolimorfismo/Exercicios5Ate7
-  .java src/com/Dani/HerancaPolimorfismo/Exercicios8E9
-  .java src/com/Dani/HerancaPolimorfismo/Exercicio10
-  .java src/com/Dani/HerancaPolimorfismo/Exercicio11
-  ```
-Considerações Finais
-Este projeto demonstra a aplicação dos conceitos de orientação a objetos em Java, 
-incluindo herança e polimorfismo, através de uma série de exercícios práticos. 
-A estrutura do projeto foi projetada para fornecer uma compreensão sólida e prática desses conceitos fundamentais.
-
-Para qualquer dúvida ou contribuição, sinta-se à vontade para entrar em contato.
-
+    ```sh
+   javac -d bin src/com/Dani/HerancaPolimorfismo/Exercicios1Ate4
+   .java src/com/Dani/HerancaPolimorfismo/Exercicios5Ate7
+   .java src/com/Dani/HerancaPolimorfismo/Exercicios8E9
+   .java src/com/Dani/HerancaPolimorfismo/Exercicio10
+   .java src/com/Dani/HerancaPolimorfismo/Exercicio11
+    ```
+ Considerações Finais
+   Este projeto demonstra a aplicação dos conceitos de orientação a objetos em Java, 
+   incluindo herança e polimorfismo, através de uma série de exercícios práticos. 
+   A estrutura do projeto foi projetada para fornecer uma compreensão sólida e prática desses conceitos fundamentais.
+   
+   Para qualquer dúvida ou contribuição, sinta-se à vontade para entrar em contato.
+   
