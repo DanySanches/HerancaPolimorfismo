@@ -78,12 +78,12 @@ Para executar os exercícios, siga estas etapas:
    cd <diretório do projeto>
    ```
 3.**Compile o Projeto:**
-```sh
+   ```sh
   javac -d bin src/com/Dani/HerancaPolimorfismo/Exercicios1Ate4
-  /*.java src/com/Dani/HerancaPolimorfismo/Exercicios5Ate7
-  /*.java src/com/Dani/HerancaPolimorfismo/Exercicios8E9
-  /*.java src/com/Dani/HerancaPolimorfismo/Exercicio10
-  /*.java src/com/Dani/HerancaPolimorfismo/Exercicio11/*.java
+  .java src/com/Dani/HerancaPolimorfismo/Exercicios5Ate7
+  .java src/com/Dani/HerancaPolimorfismo/Exercicios8E9
+  .java src/com/Dani/HerancaPolimorfismo/Exercicio10
+  .java src/com/Dani/HerancaPolimorfismo/Exercicio11
   ```
 Considerações Finais
 Este projeto demonstra a aplicação dos conceitos de orientação a objetos em Java, 
